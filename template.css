@@ -1,0 +1,103 @@
+body{
+
+    background-color: #2C2F33;
+
+}
+.maincontainer{
+
+    background-color: #3d4246;
+    /* #23272A
+    */
+    width: 70vw;
+    height: 100vh;
+    position: absolute;
+    left: 15%;
+    top: 3%;
+    z-index: -1;
+    border-radius: 50px;
+
+}
+.picinfocon{
+
+    z-index: 0;
+    background-color: #99AAB5;
+    width: 25vw;
+    height: 40vw;
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    border-radius: 50px;
+
+}
+h1{
+
+    position: absolute;
+    top: 5%;
+    left: 17%;
+    font-size: 2vw;
+
+}
+.namehr{
+
+    position: absolute;
+    top: 12%;
+    left: 17%;
+
+    width: 65vw;
+
+}
+.bio-container{
+
+    position: absolute;
+    top: 17%;
+    left: 17%;
+    margin-right: 45%;
+    
+}
+.biobar{
+
+    width: 35vw;
+    position: relative;
+    left: -3%;
+
+}
+h2{
+
+    font-size: 1.5vw;
+
+}
+p{
+
+    font-size: 1.1vw;
+
+}
+img{
+
+    position: absolute;
+    width: 20vw;
+    height: auto;
+    top: 25%;
+    left: 57.5%;
+
+
+}
+
+li{
+
+    width: 20%;
+
+}
+
+/* Mobile Responsivness */
+@media screen and (max-width: 1375px){
+
+    h1{
+
+        position: absolute;
+        top: 5%;
+        left: 17%;
+        font-size: 4vw;
+
+    }
+
+}
