@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="template.css">
+    <!--1. Change the Title of the Tab here-->
+    <title>SP</title>
+</head>
+<body>
+    
+    <div class="maincontainer"></div>
+    <div class="picinfocon"></div>
+    <!-- OPTIONAL: Add an image by typing the name in the src section. You must upload the file to the repository if you would like it to be displayed-->
+    <!img src="SP.jpg">
+
+    <!--2. Change the title of the article here-->
+    <h1>SP</h1>
+    <hr class="namehr"> 
+
+    <div class ="bio-container">
+    <h2 class="bio">Biography</h2>
+    <hr class="biobar"> <!--Put Text between the <p> tags in order to edit the Biography paragraph-->
+    <p> A fresh addition to the BDB Cast, SP was introduced through Baneen. <br>
+	Being a new edition, is poor as hell. Survives on wallet drops.<br>
+	Board & Vidya Gamer, Debater, and <s>lazy</s> chill. 
+	Man talks like a diamond, and plays like a silver. <br>
+	Renaissance man, enjoys studying history, arts, music, technology, design.
+    <h2>History</h2>
+    <hr><!--3. Put Text between the <p> tags in order to edit the History paragraphs-->
+    <p>	Introduced to the server early December 2020 through Baneen. <br>
+	Has served as the jury in BDB Court, is often a neutral party. <br>
+	Second to add a page despite being one of the newer members. <br>
+	Literally nothing else significant has happened.
+    <h2>Trivia</h2>
+    <hr>
+    <ul> <!--4. Put Text Between the <li> tags in order to list facts add more <li> tags to list more points-->
+        <li>Doesn't know what SP is supposed to stand for</li>
+	<li>Changes username and profile picture on a whim</li>
+        <li>Into all kinds of music, favoring relaxing jazz</li>
+        <li>Mains Puppeteers, Spacers, Snipers, Info characters.</li>
+	<li>Taken.</li>        
+        <li>Oatzeal owes some braincells</li>
+    </ul>
+    </div>
+
+</body>
+</html>
